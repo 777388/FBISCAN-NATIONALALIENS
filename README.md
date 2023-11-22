@@ -4,4 +4,4 @@ Mein Kampf
 
 FBI Agent Listing
 
-Added bonus, Guccifers celebrity address list to get some movies out of this going.
+Added bonus, Guccifers celebrity address list to get some movies out of this going. Though after Gary Oldman did a smokin' aces on me, and got his name off the list, I'd imagine the list is shot and all the addy's were replaced with their targets.
