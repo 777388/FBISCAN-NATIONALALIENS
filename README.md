@@ -1,9 +1,5 @@
-# fbiscan
+Stanislaus County Sheriffs Custody Lists back to 2015 along the parallel of Roswell Ct after finding an anomaly house on the parallel
 
-Break a Wish Foundation.
+Mein Kampf
 
-![image](https://github.com/777388/fbiscan/assets/96343159/25c023a9-4a88-44a7-8744-3515a5bb159b)
-
-You ever wonder if someones related to an FBI agent?
-
-Usage: Python3 fbiscan.py "name"
+FBI Agent Listing
